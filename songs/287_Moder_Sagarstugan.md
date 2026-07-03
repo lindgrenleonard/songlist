@@ -6,7 +6,7 @@ melody: Längtan till landet
 composer: Otto Lindblad
 notes:
   - Sjungs av coola personer varje sommar typ.
-tags: [gasque, swe]
+tags: [sagarstugan, swe]
 abc: |
   X:1
   T:Längtan till landet (Vintern rasat ut)

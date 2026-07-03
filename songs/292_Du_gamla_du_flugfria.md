@@ -2,7 +2,7 @@
 title: Du gamla du flugfria
 author:
   - name: Tove Verner-Carlsson IN-20
-tags: [gasque, swe]
+tags: [sagarstugan, swe]
 melody: Du gamla, du fria
 abc: |
   X:1
@@ -18,9 +18,9 @@ abc: |
 Du gamla du flugfria Sågarstugan
 Du har egen sjö och egen bastu
 Kanoter och roddbåt och stand up paddle boards
-Och hängmattan den hänger där i trädet
+//: Och hängmattan den hänger där i trädet ://
 
 Du soliga regniga Sågarstugan
 Vi festar vi super och vi badar
 Vi spelar brädspel och vi äter massa mat
-Så flugorna kan frodas och förökas
+//: Så flugorna kan frodas och förökas ://
