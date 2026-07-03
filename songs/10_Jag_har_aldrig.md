@@ -47,13 +47,14 @@ abc: |
   T:Shall We Gather at the River
   Z:R.L. Walker collection via JC's tune finder (trillian.mit.edu/~jc)
   M:4/4
-  L:1/4
-  Q:1/4=100
-  K:Eb
-  G G G3/4 F/4 G3/4 A/4|B2 G2|A A A3/4 B/4 A3/4 G/4|F2 B2|
-  G G G3/4 F/4 G3/4 A/4|B2 G G/2 A/2|F F/2G/2 A G/2F/2|E4||
-  c c e3/4 d/4 e3/4 c/4|B2 G3/2 G/2|A3/4 G/4 A3/4 G/4 A3/4 G/4 A/2F/2|G2 B2|
-  c3/4 c/4 c3/4 c/4 e3/4d/4 e3/4 c/4|B2 G G|F F3/4 G/4 A G/2F/2|E4|]
+  L:1/16
+  Q:1/4=120
+  K:C
+  E4 E4 E3DE3F | G8 E8 | F4 F4 F3GF3E | D3GG3GG4G4 |
+  E4 E4 E3DE3F | G8 E4 F2E2| D4 D2E2 F4 E2D2 |C12 z4 |
+  A4 A4 c3B c3A | G8 E8 | F4F4 F2E2F2D2 | E4 F4 G8 |
+  A4 A4 c3B c3A | G8 E4 F2E2 | D4 D2E2 F4 E2D2 | C8-C3 GG3G | 
+  E3 GG3G E3 GG3G | E3 GG3G E3 GG3G | E3 GG3G E3 CC3C | G4-E4 G8
 ---
 
 Jag har aldrig vart på snusen,
