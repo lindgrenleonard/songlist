@@ -6,6 +6,7 @@
 	"scripts": {
 		"build": "ts-node src/scripts build",
 		"script": "ts-node src/scripts",
+		"serve": "ts-node src/scripts serve",
 		"test": "jest test",
 		"lint": "prettier --check dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json",
 		"format": "prettier --write dist songs src test README.md .prettierrc jest.config.js package.json tsconfig.json"

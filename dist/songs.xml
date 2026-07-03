@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-06-13">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-07-02">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -2346,6 +2346,184 @@
 		<p>mvp mvp ha!</p>
 	</song>
 	<song
+		name="Moder Sågarstugan"
+		id="287"
+		author="Dante Julio Cosentino, Leonard Lindgren"
+		composer="Otto Lindblad"
+		melody="Längtan till landet"
+		category="Gasque"
+	>
+		<note>Sjungs av coola personer varje sommar typ.</note>
+		<p>
+			Ner i Smålands mycket vackra landskap
+			Finns ett hem långt ifrån vår stad
+			Alla samlas ner i denna stuga
+			För att njuta under samma tak
+		</p>
+		<p>
+			Sågarstugan du förgyller vår sommar
+			Ingen el å vatten vi glädjes ändå
+			Låt oss därför sjunga, skråla och skrika
+			Skål för Sågarstugan, NU GUTÅR
+		</p>
+	</song>
+	<song
+		name="Drafur och Gildur"
+		id="289"
+		author="IDK"
+		melody="IDK"
+		category="Gasque"
+	>
+		<p>
+			Tramp av grova kängor hörs
+			Dvärgasång med vinden förs
+			Ner mot liten glänta
+			Där lömska trollen vänta
+		</p>
+		<p>
+			Troll i bakhåll för en dvärg
+			Snart får dvärg bekänna färg
+			Drafur går mot skogen
+			Med yxan redobogen
+		</p>
+		<p>
+			Trollen väntat länge nog
+			Smyger framåt ut ur skog
+			Drafur står och lyssnar
+			Hör hur ugglan tystnar
+		</p>
+		<p>
+			Plötsligt under skrik och skrän
+			Rusar troll från alla trän
+			Drafur spår &quot;det tycks va&apos;
+			Tid att svinga yxa&quot;
+		</p>
+		<p>
+			Första trollet hoppas re&apos;n
+			Krossa Drafurs bägge ben
+			Trolls förhoppning krossas
+			När hals från huvud lossas
+		</p>
+		<p>
+			Trollen blir allt fler och fler
+			Drafur vill ej se dom mer
+			Trollhuv&apos;en är trånga
+			Men nu är dom för många
+		</p>
+		<p>
+			Plötsligt trollens lycka vänds
+			Och hos Drafur hoppet tänds
+			Genom blodröd slöja
+			Ser han Gildur röja!
+		</p>
+		<p>
+			Troll i mängder rycker fram
+			Gildur, Drafur blir en dram
+			Rygg mot rygg står dvärgar
+			Trollblod marken färgar
+		</p>
+		<p>
+			Drafur med ett dvärgagrin
+			Svingar dubbelyxan sin
+			Trollens nackar styva
+			Med kraft han synes klyva
+		</p>
+		<p>
+			Dvärgars vrede blivit väckt
+			Närmsta troll får skallen spräckt
+			Se hur trollen backar
+			Gildur klyver nackar
+		</p>
+		<p>
+			Trollens led har krympt till slut
+			Snart får dvärgar pusta ut
+			Med dvärgablodet skållhett
+			Man dräper sista trollet
+		</p>
+	</song>
+	<song
+		name="Den vackraste av städer"
+		id="290"
+		author="IDK"
+		melody="IDK"
+		category="Gasque"
+	>
+		<p>
+			Den vackraste av städer
+			det fagraste av län.
+			Till detta stolta hemland
+			Jag ger nu min själ hän.
+			Vi lyder våra präster
+			Vi följer vår kapten
+			Igenom krigets mödor
+			Vi följer kyrkans sken.
+		</p>
+		<p>
+			Marchera, marchera
+			Mot ära, blod och död
+			Med elden i mitt bröst under fan-
+			an så röd
+			Tag mera mark!
+		</p>
+		<p>
+			Marchera, marchera
+			Mot ära, blod och död!
+			….
+			….
+			Tag mera mark
+		</p>
+		<p>
+			Där hemma ligger gården
+			Med säng och en varm härd.
+			Men här följer jag greven
+			jag svingar stolt mitt svärd.
+			Jag fruktar ej för faror
+			jag skyddas av min tro
+			Och även om jag stupar
+			så ska jag finna ro.
+		</p>
+		<p>
+			Marchera, marchera
+			Mot ära, blod och död
+			Med elden i mitt bröst under fan-
+			an så röd
+			Tag mera mark!
+		</p>
+		<p>
+			Likt klippan står vår sköldmur
+			Och skäktor fyller skyn.
+			Och likt en mäktig svallvåg
+			vi stormar in i byn.
+			Kättare vi bränner
+			och skogsfolk läggs på hög.
+			Över svarta ruiner
+			Fanan med stolthet flög.
+		</p>
+		<p>Ref.</p>
+		<p>
+			Marchera, marchera
+			Mot ära, blod och död
+			Med elden i mitt bröst under fan-
+			an så röd
+			Tag mera mark!
+		</p>
+	</song>
+	<song
+		name="Calle Calle Wicklund"
+		id="291"
+		author="IDK"
+		melody="IDK"
+		category="Gasque"
+	>
+		<p>
+			Han heter Calle Calle Wicklund, Han heter Calle Calle Wickluuuuund
+			Han heter Calle Calle Wicklund, Han heter Calle Calle Wickluuuuund
+			Uh yeah
+			Calle Calle Wicklund ge mig din skjärta
+			Calle Calle Wicklund du é så fin, Calle Calle Wicklund, vill du bli min
+		</p>
+	</song>
+	<song
 		name="En pilsnerdrickare"
 		id="31"
 		author="Göran Rygert, A-57 (CTH)"
@@ -3379,6 +3557,17 @@
 			och visst var jag nykter om våren.
 			Men ej skilja på kron och gin,
 			efter den elfte tåren.
+		</p>
+	</song>
+	<song
+		name="Din mamma"
+		id="286"
+		author="Edvin Frosterud"
+		category="Brännvin"
+	>
+		<p>
+			Din mamma på min pizza din mamma i mitt hus.
+			Din mamma hon älskar alla mina bus.
 		</p>
 	</song>
 	<song
