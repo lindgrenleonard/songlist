@@ -1,7 +1,7 @@
 ---
-title: Calle Calle Wicklund
+title: Du gamla du flugfria
 author:
-  - name: Tove
+  - name: Tove Verner-Carlsson IN-20
 tags: [gasque, swe]
 melody: Du gamla, du fria
 abc: |
