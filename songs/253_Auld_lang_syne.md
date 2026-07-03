@@ -6,6 +6,16 @@ author:
 notes:
   - I en kortare version sjungs endast första versen och refrängen för att avsluta med sista versen och refrängen.
 tags: [solemn, eng]
+abc: |
+  X:1
+  T:Auld Lang Syne
+  Z:Paul Hardy's Session Tunebook (www.pghardy.net), CC BY-NC-SA
+  M:4/4
+  L:1/8
+  Q:1/4=100
+  K:D
+  A,2|D3 D D2 F2|E3 D E2 FE|D3 D F2 A2|B6 B2|A3 F F2 D2|E3 D E2 FE|D3 B, B,2 A,2|D6||
+  B2|A3 F F2 D2|E3 D E2 B2|A3 F F2 A2|B6 d2|A3 F F2 D2|E3 D E2 FE|D3 B, B,2 A,2|D6|]
 ---
 
 Should auld acquaintance be forgot,

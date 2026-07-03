@@ -18,8 +18,8 @@ abc: |
   L:1/8
   Q:1/4=100
   K:D
-  A,2|"D"D3 D D2 F2|"A"E3 D E2 F2|"D"D3 D F2 A2|"G"B6 B2|"D"A3 F F2 D2|"A"E3 D E2 F2|"G"D3 B, B,2 A,2|"D"D6||
-  B2|"D"A3 F F2 D2|"A"E3 D E2 B2|"D"A3 F F2 A2|"G"B6 d2|"D"A3 F F2 D2|"A"E3 D E2 FE|"G"D3 B, B,2 "A7"A,2|"D"D6|]
+  A,2|D3 D D2 F2|E3 D E2 FE|D3 D F2 A2|B6 B2|A3 F F2 D2|E3 D E2 FE|D3 B, B,2 A,2|D6||
+  B2|A3 F F2 D2|E3 D E2 B2|A3 F F2 A2|B6 d2|A3 F F2 D2|E3 D E2 FE|D3 B, B,2 A,2|D6|]
 ---
 
 När punschen småningom är slut
