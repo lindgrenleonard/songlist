@@ -18,7 +18,7 @@ abc: |
   Z:Lehár refrain melody, via abcnotation.com tune search
   M:3/4
   L:1/8
-  Q:1/4=160
+  Q:1/4=200
   K:F
   C4 F2 | G4 A2 | C4 F2 | G4 A2 | B6 | A6 | G6- | G6 |
   C4 G2 | A4 B2 | C4 G2 | A4 B2 | c6 | B6 | A6- | A6 |
