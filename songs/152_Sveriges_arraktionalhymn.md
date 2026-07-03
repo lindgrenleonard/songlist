@@ -9,7 +9,6 @@ tags: [punsch, swe]
 abc: |
   X:1
   T:Du gamla, du fria
-  Z:trad, transcr. Frank Nordberg (musicaviva.com)
   M:C
   L:1/8
   Q:1/4=80

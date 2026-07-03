@@ -1,7 +1,16 @@
 ---
 title: Du gamla vin
-melody: Du gamla du fria
 tags: [wine, swe]
+melody: Du gamla, du fria
+abc: |
+  X:1
+  T:Du gamla, du fria
+  M:C
+  L:1/8
+  Q:1/4=80
+  K:Bb
+  d | d2BB B2cd | d2cB A2zc | c2AB cAdB | G4F2zF |
+  B2Bc A2AB | G>F GA F2z |: F | B>A Bc dBed | c4B2 z :|
 ---
 
 Du gamla, du fina, du årgångna vin
