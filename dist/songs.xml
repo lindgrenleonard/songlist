@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-07-02">
+<songs description="IT-sektionens sångbok, Strängteoretiquernas reviderade version (2009-2015)" updated="2026-07-03">
 	<song
 		name="Moder Kista"
 		id="0"
@@ -3568,6 +3568,10 @@
 		<p>
 			Din mamma på min pizza din mamma i mitt hus.
 			Din mamma hon älskar alla mina bus.
+		</p>
+		<p>
+			Din mamma är så fin, din mamma luktar svin. 
+			*stöhn*, vill du bli min mamma?
 		</p>
 	</song>
 	<song
