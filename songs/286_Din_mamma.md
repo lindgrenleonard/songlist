@@ -4,7 +4,7 @@ author:
   - name: Edvin Frosterud
 melody:
 composer:
-tags: [swe, sagarstugan]
+tags: [sagarstugan, swe]
 ---
 
 Din mamma på min pizza din mamma i mitt hus.
