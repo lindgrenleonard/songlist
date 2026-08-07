@@ -9,13 +9,11 @@ tags: [snaps, swe]
 abc: |
   X:1
   T:Ser du stjärnan i det blå (When You Wish Upon a Star)
-  Z:OMR (Audiveris) from engraved lead sheet, Leigh Harline melody
   M:2/2
   L:1/4
   Q:1/4=92
   K:C
-  G, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | G3 z |
-  G, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C4 |]
+  G, G F E | ^C D A2 | B, B A G | ^F G c2 | d c B A | G F E D | A2 B,2 | C3 z |
 ---
 
 Ser du skeppet i vår hamn?

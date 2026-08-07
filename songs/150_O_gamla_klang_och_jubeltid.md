@@ -16,6 +16,17 @@ notes:
   - Under sista versen reser sig alla upp och tar varandras händer.
   - Efter sångens slut förblir man stående.
 tags: [solemn, swe]
+abc: |
+  X:1
+  T:O alte Burschenherrlichkeit
+  M:4/4
+  L:1/8
+  Q:1/4=120
+  K:C
+  CE |G2G2GA FD|C2E2 E2>E2| D2zE F2G2|F2E2z2>G2|G2>E2c2>B2|
+  B2 A2A2>A2 | G2>A2 GEFD | D2C2 z2>E2 | D2 G2 G2 B2 | BA cB A2 D2 |
+  D2G2G2B2 |cB dc BA GF | G2>E2 c2>B2 | B2 A2 z2 A2 | G2>A2 GE FD | D2C2 z2 |]
+   
 ---
 
 O gamla klang- och jubeltid

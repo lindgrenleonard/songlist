@@ -11,14 +11,13 @@ tags: [esoteric, swe]
 abc: |
   X:1
   T:Uti vår hage
-  Z:trad, via JC's tune finder (trillian.mit.edu/~jc)
   M:3/4
   L:1/4
   Q:1/4=132
   K:Dm
   D F G | F>E D | F F G | A2 c | A2 F | A2 z |
-  F>F F | F G A | A G F | G2 A | F F/>E/ D/F/ | E A, G |
-  F F/>E/ D/F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]
+  F>F F | F G A | A G F | G2 A | F F/>E/ D/>F/ | E A, G |
+  F F/>E/ D/>F/ | E A, ^C | D A>G | A E G | F2 E | D2 z |]
 ---
 
 IT-sektionen den finns inte mer,

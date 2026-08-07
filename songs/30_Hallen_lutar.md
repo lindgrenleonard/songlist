@@ -3,6 +3,18 @@ title: Hallen lutar
 melody: Hallelujah
 composer: Leonard Cohen
 tags: [gasque, swe]
+abc: | 
+  X:1
+  T: Hallelujah
+  M:6/8
+  L:1/16
+  Q:1/4=100
+  K:C
+  E2 | G4 G2 G4 G2 | A4A2 A4 E2|G4G2 G4G2|A4 A2 A4G2| A4 A2-A2A2A2 | 
+  A4G2 G4F2|G4 G8-| G12-G2 E2| G4 G2 G4 G2| A4 A2 B4 G2| c4 c2 c4 c2|
+  c4 c2 d4 c2| d4 d2 d4 d2| e4 e2 e4 d2 | d6 c6- | c6 E4 G2| 
+  A6 A6- | A6 A4 G2 | E6 E6- | E6 E4 G2| A6 A6- | A6 A4 G2 |
+  E6- E2F2E2 | D12 | C12 |]
 ---
 
 Jag minns knappt hur jag tog mig hem.

@@ -3,9 +3,19 @@ title: Jesus lever
 melody: Sånt är livet
 composer: Bill Cook
 tags: [gasque, swe]
+abc: |
+  X:1
+  T: Sånt är livet
+  M:4/4
+  L:1/8
+  Q:1/4=190
+  K:A
+  z2 c2 c2 B2 | A4 A4 | z2 c2-B2 A2 | B4 A4 | z2 c2 B2 A2 |
+  A4 A4 | z2 G4 A2 | B8- | B2 c2 B2 A2  | A4 A4 | z2 c2 B2 A2 |
+  B4 A4| z2 c2 B2 A2 | A4 A4 | z2 G4 G2 | A8
 ---
 
-Jesus lever, han bor i Lappis
+Jesus lever, han bor i Kista
 Han kör en Volvo och han är gift
 Han har en villa med rododendron
 Han sparar pengar och jobbar skift
